@@ -3,7 +3,7 @@
 
 Additionally, I've honed my skills in **Data Structures and Algorithms (DSA)**, essential for building efficient and scalable software solutions. I've actively pursued practical applications of my knowledge, working on diverse projects that have sharpened my problem-solving skills and provided real-world experience.</p>
 
-- 🌱 I'm currently focusing on mastering **Data Structures and Algorithms** in Java to bolster my full-stack development capabilities.
+- 🌱 I'm currently focusing on SUPERSIGHT projects.
 - 📫 How to reach me **ryanrazz00@gmail.com**
 
 ## Connect with me:
