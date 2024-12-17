@@ -1,5 +1,5 @@
 <h1 align="center">👋 Greetings! I'm a passionate software engineer.</h1>
-<p align="left">I'm Rana Rayhan, an experienced software engineer, with a Bachelor of Engineering in Information Technology from Metropolia-UAS. Throughout my academic journey, I've delved deep into software development, specializing in Full Stack Development with proficiency in Java, React, Node.js, Spring Boot, and other modern web development tools.
+<p align="left">I'm Rana Rayhan, an experienced software engineer, with a Bachelor of Engineering in Information Technology from Metropolia-UAS. Throughout my academic journey, I've delved deep into software development, specializing in Full Stack Development with proficiency in Node.js, Express.js, React.js, Java, SpringBoot, AWS, AWS-lambda, AWS-CDK and other modern development tools.
 
 Additionally, I've honed my skills in **Data Structures and Algorithms (DSA)**, essential for building efficient and scalable software solutions. I've actively pursued practical applications of my knowledge, working on diverse projects that have sharpened my problem-solving skills and provided real-world experience.</p>
 
